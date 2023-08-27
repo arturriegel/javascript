@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(0, 128, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+header {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#txtn {
+    width: 150px;
+}
+
+.btn {
+    margin: 5px 5px 5px 0px;
+}
+
+p {
+    padding: 8px;
+}
+
+select {
+    width: 200px;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+}
